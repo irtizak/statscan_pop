@@ -1,0 +1,351 @@
+Geographic level,Geographic name,Statistic,Value
+Country,Canada,"Population, 2021",36991981
+Country,Canada,"Population, 2016",35151728
+Country,Canada,    0 to 4 years,1831195
+Country,Canada,    5 to 9 years,2054900
+Country,Canada,    10 to 14 years,2126705
+Country,Canada,    15 to 19 years,2012975
+Country,Canada,    20 to 24 years,2202255
+Country,Canada,    25 to 29 years,2421510
+Country,Canada,    30 to 34 years,2518835
+Country,Canada,    35 to 39 years,2511345
+Country,Canada,    40 to 44 years,2399405
+Country,Canada,    45 to 49 years,2304170
+Country,Canada,    50 to 54 years,2368350
+Country,Canada,    55 to 59 years,2647330
+Country,Canada,    60 to 64 years,2571580
+Country,Canada,    65 to 69 years,2210970
+Country,Canada,    70 to 74 years,1847585
+Country,Canada,    75 to 79 years,1260930
+Country,Canada,    80 to 84 years,840545
+Country,Canada,      85 to 89 years,525445
+Country,Canada,      90 to 94 years,258035
+Country,Canada,      95 to 99 years,68380
+Country,Canada,      100 years and over,9535
+Country,Canada,Median total income of household in 2020 ($),84000
+Country,Canada,Unemployment rate,10.3
+Province,Newfoundland and Labrador,"Population, 2021",510550
+Province,Newfoundland and Labrador,"Population, 2016",519716
+Province,Newfoundland and Labrador,    0 to 4 years,18985
+Province,Newfoundland and Labrador,    5 to 9 years,23030
+Province,Newfoundland and Labrador,    10 to 14 years,26175
+Province,Newfoundland and Labrador,    15 to 19 years,25720
+Province,Newfoundland and Labrador,    20 to 24 years,26075
+Province,Newfoundland and Labrador,    25 to 29 years,25045
+Province,Newfoundland and Labrador,    30 to 34 years,27525
+Province,Newfoundland and Labrador,    35 to 39 years,29445
+Province,Newfoundland and Labrador,    40 to 44 years,30890
+Province,Newfoundland and Labrador,    45 to 49 years,33995
+Province,Newfoundland and Labrador,    50 to 54 years,38375
+Province,Newfoundland and Labrador,    55 to 59 years,42150
+Province,Newfoundland and Labrador,    60 to 64 years,42520
+Province,Newfoundland and Labrador,    65 to 69 years,40450
+Province,Newfoundland and Labrador,    70 to 74 years,34405
+Province,Newfoundland and Labrador,    75 to 79 years,22365
+Province,Newfoundland and Labrador,    80 to 84 years,13240
+Province,Newfoundland and Labrador,      85 to 89 years,6745
+Province,Newfoundland and Labrador,      90 to 94 years,2710
+Province,Newfoundland and Labrador,      95 to 99 years,620
+Province,Newfoundland and Labrador,      100 years and over,80
+Province,Newfoundland and Labrador,Median total income of household in 2020 ($),71500
+Province,Newfoundland and Labrador,Unemployment rate,15.2
+Province,Prince Edward Island,"Population, 2021",154331
+Province,Prince Edward Island,"Population, 2016",142907
+Province,Prince Edward Island,    0 to 4 years,6750
+Province,Prince Edward Island,    5 to 9 years,8085
+Province,Prince Edward Island,    10 to 14 years,8800
+Province,Prince Edward Island,    15 to 19 years,8560
+Province,Prince Edward Island,    20 to 24 years,10570
+Province,Prince Edward Island,    25 to 29 years,9200
+Province,Prince Edward Island,    30 to 34 years,9000
+Province,Prince Edward Island,    35 to 39 years,8980
+Province,Prince Edward Island,    40 to 44 years,9130
+Province,Prince Edward Island,    45 to 49 years,9505
+Province,Prince Edward Island,    50 to 54 years,9960
+Province,Prince Edward Island,    55 to 59 years,11640
+Province,Prince Edward Island,    60 to 64 years,11430
+Province,Prince Edward Island,    65 to 69 years,10500
+Province,Prince Edward Island,    70 to 74 years,9190
+Province,Prince Edward Island,    75 to 79 years,5775
+Province,Prince Edward Island,    80 to 84 years,3730
+Province,Prince Edward Island,      85 to 89 years,2230
+Province,Prince Edward Island,      90 to 94 years,955
+Province,Prince Edward Island,      95 to 99 years,295
+Province,Prince Edward Island,      100 years and over,35
+Province,Prince Edward Island,Median total income of household in 2020 ($),73500
+Province,Prince Edward Island,Unemployment rate,10.3
+Province,Nova Scotia,"Population, 2021",969383
+Province,Nova Scotia,"Population, 2016",923598
+Province,Nova Scotia,    0 to 4 years,40340
+Province,Nova Scotia,    5 to 9 years,47070
+Province,Nova Scotia,    10 to 14 years,49300
+Province,Nova Scotia,    15 to 19 years,48180
+Province,Nova Scotia,    20 to 24 years,58005
+Province,Nova Scotia,    25 to 29 years,60430
+Province,Nova Scotia,    30 to 34 years,59575
+Province,Nova Scotia,    35 to 39 years,57755
+Province,Nova Scotia,    40 to 44 years,56420
+Province,Nova Scotia,    45 to 49 years,59200
+Province,Nova Scotia,    50 to 54 years,63775
+Province,Nova Scotia,    55 to 59 years,77080
+Province,Nova Scotia,    60 to 64 years,76935
+Province,Nova Scotia,    65 to 69 years,68395
+Province,Nova Scotia,    70 to 74 years,59435
+Province,Nova Scotia,    75 to 79 years,39325
+Province,Nova Scotia,    80 to 84 years,25130
+Province,Nova Scotia,      85 to 89 years,14595
+Province,Nova Scotia,      90 to 94 years,6345
+Province,Nova Scotia,      95 to 99 years,1805
+Province,Nova Scotia,      100 years and over,290
+Province,Nova Scotia,Median total income of household in 2020 ($),71500
+Province,Nova Scotia,Unemployment rate,12.7
+Province,New Brunswick,"Population, 2021",775610
+Province,New Brunswick,"Population, 2016",747101
+Province,New Brunswick,    0 to 4 years,32280
+Province,New Brunswick,    5 to 9 years,38240
+Province,New Brunswick,    10 to 14 years,40605
+Province,New Brunswick,    15 to 19 years,39090
+Province,New Brunswick,    20 to 24 years,42125
+Province,New Brunswick,    25 to 29 years,42380
+Province,New Brunswick,    30 to 34 years,43485
+Province,New Brunswick,    35 to 39 years,45925
+Province,New Brunswick,    40 to 44 years,47320
+Province,New Brunswick,    45 to 49 years,50140
+Province,New Brunswick,    50 to 54 years,52140
+Province,New Brunswick,    55 to 59 years,62315
+Province,New Brunswick,    60 to 64 years,62395
+Province,New Brunswick,    65 to 69 years,57190
+Province,New Brunswick,    70 to 74 years,48855
+Province,New Brunswick,    75 to 79 years,31675
+Province,New Brunswick,    80 to 84 years,20400
+Province,New Brunswick,      85 to 89 years,11815
+Province,New Brunswick,      90 to 94 years,5370
+Province,New Brunswick,      95 to 99 years,1600
+Province,New Brunswick,      100 years and over,250
+Province,New Brunswick,Median total income of household in 2020 ($),70000
+Province,New Brunswick,Unemployment rate,10.3
+Province,Quebec,"Population, 2021",8501833
+Province,Quebec,"Population, 2016",8164361
+Province,Quebec,    0 to 4 years,422980
+Province,Quebec,    5 to 9 years,478955
+Province,Quebec,    10 to 14 years,489425
+Province,Quebec,    15 to 19 years,429400
+Province,Quebec,    20 to 24 years,460660
+Province,Quebec,    25 to 29 years,527150
+Province,Quebec,    30 to 34 years,536040
+Province,Quebec,    35 to 39 years,550425
+Province,Quebec,    40 to 44 years,572565
+Province,Quebec,    45 to 49 years,516465
+Province,Quebec,    50 to 54 years,522935
+Province,Quebec,    55 to 59 years,615690
+Province,Quebec,    60 to 64 years,625610
+Province,Quebec,    65 to 69 years,541970
+Province,Quebec,    70 to 74 years,455900
+Province,Quebec,    75 to 79 years,330840
+Province,Quebec,    80 to 84 years,210405
+Province,Quebec,      85 to 89 years,131755
+Province,Quebec,      90 to 94 years,65020
+Province,Quebec,      95 to 99 years,15665
+Province,Quebec,      100 years and over,1975
+Province,Quebec,Median total income of household in 2020 ($),72500
+Province,Quebec,Unemployment rate,7.6
+Province,Ontario,"Population, 2021",14223942
+Province,Ontario,"Population, 2016",13448494
+Province,Ontario,    0 to 4 years,683515
+Province,Ontario,    5 to 9 years,764430
+Province,Ontario,    10 to 14 years,803850
+Province,Ontario,    15 to 19 years,801455
+Province,Ontario,    20 to 24 years,895600
+Province,Ontario,    25 to 29 years,975400
+Province,Ontario,    30 to 34 years,981210
+Province,Ontario,    35 to 39 years,948030
+Province,Ontario,    40 to 44 years,890160
+Province,Ontario,    45 to 49 years,894580
+Province,Ontario,    50 to 54 years,941270
+Province,Ontario,    55 to 59 years,1040160
+Province,Ontario,    60 to 64 years,966575
+Province,Ontario,    65 to 69 years,813215
+Province,Ontario,    70 to 74 years,691280
+Province,Ontario,    75 to 79 years,469485
+Province,Ontario,    80 to 84 years,325110
+Province,Ontario,      85 to 89 years,205480
+Province,Ontario,      90 to 94 years,101430
+Province,Ontario,      95 to 99 years,28000
+Province,Ontario,      100 years and over,3705
+Province,Ontario,Median total income of household in 2020 ($),91000
+Province,Ontario,Unemployment rate,12.2
+Province,Manitoba,"Population, 2021",1342153
+Province,Manitoba,"Population, 2016",1278365
+Province,Manitoba,    0 to 4 years,80435
+Province,Manitoba,    5 to 9 years,86250
+Province,Manitoba,    10 to 14 years,86250
+Province,Manitoba,    15 to 19 years,80905
+Province,Manitoba,    20 to 24 years,91415
+Province,Manitoba,    25 to 29 years,90470
+Province,Manitoba,    30 to 34 years,91805
+Province,Manitoba,    35 to 39 years,90150
+Province,Manitoba,    40 to 44 years,84530
+Province,Manitoba,    45 to 49 years,80235
+Province,Manitoba,    50 to 54 years,78210
+Province,Manitoba,    55 to 59 years,87295
+Province,Manitoba,    60 to 64 years,85155
+Province,Manitoba,    65 to 69 years,73060
+Province,Manitoba,    70 to 74 years,59955
+Province,Manitoba,    75 to 79 years,39885
+Province,Manitoba,    80 to 84 years,26890
+Province,Manitoba,      85 to 89 years,17200
+Province,Manitoba,      90 to 94 years,8970
+Province,Manitoba,      95 to 99 years,2640
+Province,Manitoba,      100 years and over,445
+Province,Manitoba,Median total income of household in 2020 ($),79500
+Province,Manitoba,Unemployment rate,8.3
+Province,Saskatchewan,"Population, 2021",1132505
+Province,Saskatchewan,"Population, 2016",1098352
+Province,Saskatchewan,    0 to 4 years,69455
+Province,Saskatchewan,    5 to 9 years,76545
+Province,Saskatchewan,    10 to 14 years,77120
+Province,Saskatchewan,    15 to 19 years,68510
+Province,Saskatchewan,    20 to 24 years,66870
+Province,Saskatchewan,    25 to 29 years,70030
+Province,Saskatchewan,    30 to 34 years,78380
+Province,Saskatchewan,    35 to 39 years,79420
+Province,Saskatchewan,    40 to 44 years,73055
+Province,Saskatchewan,    45 to 49 years,65075
+Province,Saskatchewan,    50 to 54 years,62745
+Province,Saskatchewan,    55 to 59 years,73165
+Province,Saskatchewan,    60 to 64 years,74155
+Province,Saskatchewan,    65 to 69 years,64770
+Province,Saskatchewan,    70 to 74 years,48945
+Province,Saskatchewan,    75 to 79 years,33045
+Province,Saskatchewan,    80 to 84 years,23460
+Province,Saskatchewan,      85 to 89 years,16165
+Province,Saskatchewan,      90 to 94 years,8715
+Province,Saskatchewan,      95 to 99 years,2435
+Province,Saskatchewan,      100 years and over,450
+Province,Saskatchewan,Median total income of household in 2020 ($),82000
+Province,Saskatchewan,Unemployment rate,8.4
+Province,Alberta,"Population, 2021",4262635
+Province,Alberta,"Population, 2016",4067175
+Province,Alberta,    0 to 4 years,250250
+Province,Alberta,    5 to 9 years,278810
+Province,Alberta,    10 to 14 years,280585
+Province,Alberta,    15 to 19 years,249765
+Province,Alberta,    20 to 24 years,248740
+Province,Alberta,    25 to 29 years,275465
+Province,Alberta,    30 to 34 years,323260
+Province,Alberta,    35 to 39 years,338945
+Province,Alberta,    40 to 44 years,307665
+Province,Alberta,    45 to 49 years,277770
+Province,Alberta,    50 to 54 years,262770
+Province,Alberta,    55 to 59 years,274150
+Province,Alberta,    60 to 64 years,265240
+Province,Alberta,    65 to 69 years,217270
+Province,Alberta,    70 to 74 years,163890
+Province,Alberta,    75 to 79 years,105520
+Province,Alberta,    80 to 84 years,70160
+Province,Alberta,      85 to 89 years,44670
+Province,Alberta,      90 to 94 years,21430
+Province,Alberta,      95 to 99 years,5480
+Province,Alberta,      100 years and over,795
+Province,Alberta,Median total income of household in 2020 ($),96000
+Province,Alberta,Unemployment rate,11.5
+Province,British Columbia,"Population, 2021",5000879
+Province,British Columbia,"Population, 2016",4648055
+Province,British Columbia,    0 to 4 years,216825
+Province,British Columbia,    5 to 9 years,244290
+Province,British Columbia,    10 to 14 years,255790
+Province,British Columbia,    15 to 19 years,253690
+Province,British Columbia,    20 to 24 years,294650
+Province,British Columbia,    25 to 29 years,337090
+Province,British Columbia,    30 to 34 years,358585
+Province,British Columbia,    35 to 39 years,353350
+Province,British Columbia,    40 to 44 years,319740
+Province,British Columbia,    45 to 49 years,310035
+Province,British Columbia,    50 to 54 years,329005
+Province,British Columbia,    55 to 59 years,356345
+Province,British Columbia,    60 to 64 years,355130
+Province,British Columbia,    65 to 69 years,319405
+Province,British Columbia,    70 to 74 years,272365
+Province,British Columbia,    75 to 79 years,181075
+Province,British Columbia,    80 to 84 years,121055
+Province,British Columbia,      85 to 89 years,74315
+Province,British Columbia,      90 to 94 years,36840
+Province,British Columbia,      95 to 99 years,9790
+Province,British Columbia,      100 years and over,1515
+Province,British Columbia,Median total income of household in 2020 ($),85000
+Province,British Columbia,Unemployment rate,8.4
+Territory,Yukon,"Population, 2021",40232
+Territory,Yukon,"Population, 2016",35874
+Territory,Yukon,    0 to 4 years,2175
+Territory,Yukon,    5 to 9 years,2375
+Territory,Yukon,    10 to 14 years,2275
+Territory,Yukon,    15 to 19 years,2085
+Territory,Yukon,    20 to 24 years,2140
+Territory,Yukon,    25 to 29 years,2705
+Territory,Yukon,    30 to 34 years,3415
+Territory,Yukon,    35 to 39 years,3425
+Territory,Yukon,    40 to 44 years,2840
+Territory,Yukon,    45 to 49 years,2615
+Territory,Yukon,    50 to 54 years,2460
+Territory,Yukon,    55 to 59 years,2805
+Territory,Yukon,    60 to 64 years,2880
+Territory,Yukon,    65 to 69 years,2370
+Territory,Yukon,    70 to 74 years,1765
+Territory,Yukon,    75 to 79 years,1025
+Territory,Yukon,    80 to 84 years,505
+Territory,Yukon,      85 to 89 years,255
+Territory,Yukon,      90 to 94 years,110
+Territory,Yukon,      95 to 99 years,20
+Territory,Yukon,      100 years and over,0
+Territory,Yukon,Median total income of household in 2020 ($),100000
+Territory,Yukon,Unemployment rate,6.8
+Territory,Northwest Territories,"Population, 2021",41070
+Territory,Northwest Territories,"Population, 2016",41786
+Territory,Northwest Territories,    0 to 4 years,2825
+Territory,Northwest Territories,    5 to 9 years,2820
+Territory,Northwest Territories,    10 to 14 years,2830
+Territory,Northwest Territories,    15 to 19 years,2530
+Territory,Northwest Territories,    20 to 24 years,2555
+Territory,Northwest Territories,    25 to 29 years,3150
+Territory,Northwest Territories,    30 to 34 years,3510
+Territory,Northwest Territories,    35 to 39 years,3135
+Territory,Northwest Territories,    40 to 44 years,2980
+Territory,Northwest Territories,    45 to 49 years,2620
+Territory,Northwest Territories,    50 to 54 years,2730
+Territory,Northwest Territories,    55 to 59 years,2920
+Territory,Northwest Territories,    60 to 64 years,2365
+Territory,Northwest Territories,    65 to 69 years,1650
+Territory,Northwest Territories,    70 to 74 years,1115
+Territory,Northwest Territories,    75 to 79 years,695
+Territory,Northwest Territories,    80 to 84 years,350
+Territory,Northwest Territories,      85 to 89 years,155
+Territory,Northwest Territories,      90 to 94 years,115
+Territory,Northwest Territories,      95 to 99 years,15
+Territory,Northwest Territories,      100 years and over,0
+Territory,Northwest Territories,Median total income of household in 2020 ($),127000
+Territory,Northwest Territories,Unemployment rate,8.6
+Territory,Nunavut,"Population, 2021",36858
+Territory,Nunavut,"Population, 2016",35944
+Territory,Nunavut,    0 to 4 years,4385
+Territory,Nunavut,    5 to 9 years,3990
+Territory,Nunavut,    10 to 14 years,3705
+Territory,Nunavut,    15 to 19 years,3085
+Territory,Nunavut,    20 to 24 years,2860
+Territory,Nunavut,    25 to 29 years,2990
+Territory,Nunavut,    30 to 34 years,3040
+Territory,Nunavut,    35 to 39 years,2370
+Territory,Nunavut,    40 to 44 years,2110
+Territory,Nunavut,    45 to 49 years,1930
+Territory,Nunavut,    50 to 54 years,1985
+Territory,Nunavut,    55 to 59 years,1615
+Territory,Nunavut,    60 to 64 years,1190
+Territory,Nunavut,    65 to 69 years,720
+Territory,Nunavut,    70 to 74 years,485
+Territory,Nunavut,    75 to 79 years,220
+Territory,Nunavut,    80 to 84 years,105
+Territory,Nunavut,      85 to 89 years,60
+Territory,Nunavut,      90 to 94 years,20
+Territory,Nunavut,      95 to 99 years,0
+Territory,Nunavut,      100 years and over,0
+Territory,Nunavut,Median total income of household in 2020 ($),118000
+Territory,Nunavut,Unemployment rate,16.9
