@@ -1,3 +1,20 @@
+import os
+import tempfile
+
+# Set environment variables to fix HuggingFace Spaces permissions
+os.environ['STREAMLIT_BROWSER_GATHER_USAGE_STATS'] = 'false'
+os.environ['STREAMLIT_SERVER_HEADLESS'] = 'true'
+os.environ['STREAMLIT_SERVER_PORT'] = '7860'
+os.environ['STREAMLIT_SERVER_ADDRESS'] = '0.0.0.0'
+
+# Set a writable directory for Streamlit config
+streamlit_config_dir = os.path.join(tempfile.gettempdir(), '.streamlit')
+os.environ['STREAMLIT_CONFIG_DIR'] = streamlit_config_dir
+
+# Create the directory if it doesn't exist
+os.makedirs(streamlit_config_dir, exist_ok=True)
+
+# Now import streamlit
 import streamlit as st
 import pandas as pd
 from preprocess import preprocess_data
