@@ -15,7 +15,7 @@ The objective of this project is to automate the processing of structured census
 
 An interactive **Streamlit** application is included, allowing users to upload a `.csv` file and view region-specific insights with a dropdown interface.
 
-> 📘 **Note**: The entire preprocessing pipeline—including data cleaning, transformation, and output generation—is demonstrated in the `technical_test.ipynb` notebook.
+> 📘 **Note**: The entire preprocessing pipeline—including data cleaning, transformation, and output generation—is demonstrated in the `technical_test.ipynb` notebook. Read further below to run Streamlit application.
 
 ---
 
@@ -48,6 +48,7 @@ An interactive **Streamlit** application is included, allowing users to upload a
    pip install -r requirements.txt
    # or
    uv pip install -r requirements.txt
-3. Run the Streamlit application with the following command:
+3. Run the Streamlit application locally with the following command:
    ```bash
    streamlit run app.py
+4. Alternatively, you can access the cloud-deployed app [here](https://statscanpop-urnpvza6axlra6wtpspmtx.streamlit.app/)
