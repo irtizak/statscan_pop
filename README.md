@@ -51,4 +51,4 @@ An interactive **Streamlit** application is included, allowing users to upload a
 3. Run the Streamlit application locally with the following command:
    ```bash
    streamlit run app.py
-4. Alternatively, you can access the cloud-deployed app [here](https://statscanpop-urnpvza6axlra6wtpspmtx.streamlit.app/)
+4. Alternatively, you can access the cloud-deployed app [here](https://statscanpop-urnpvza6axlra6wtpspmtx.streamlit.app/).

@@ -1,5 +1,9 @@
+# Import libraries
 import os
 import tempfile
+import streamlit as st
+import pandas as pd
+from preprocess import preprocess_data
 
 # Set environment variables to fix HuggingFace Spaces permissions
 os.environ['STREAMLIT_BROWSER_GATHER_USAGE_STATS'] = 'false'
@@ -13,11 +17,6 @@ os.environ['STREAMLIT_CONFIG_DIR'] = streamlit_config_dir
 
 # Create the directory if it doesn't exist
 os.makedirs(streamlit_config_dir, exist_ok=True)
-
-# Now import streamlit
-import streamlit as st
-import pandas as pd
-from preprocess import preprocess_data
 
 # App title
 st.title("🇨🇦 Canada Population Data")
