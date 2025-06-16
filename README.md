@@ -1,19 +1,21 @@
 # 📊 Canada Census Data Processing & Visualization
 
-This project provides a streamlined pipeline to process Canadian census data and generate comprehensive population metrics summaries for various geographic regions. The pipeline calculates and visualizes age distributions, population totals, growth rates, median household income, and unemployment rates. It is designed to support further analysis, reporting, and dashboard development using tools such as **Streamlit**.
+This project provides a streamlined pipeline to process Canadian census data and generate population metrics summaries for various geographic regions (age distributions, population totals, growth rates, median household income, and unemployment rates). It is designed to support further analysis, reporting, and dashboard development using tools such as **Streamlit**.
 
 ---
 
 ## 📌 Introduction
 
-The objective of this project is to automate the processing of structured census data and make insights accessible through interactive visualizations. It focuses on:
+The objective of this project is to automate the processing of structured census data and make insights accessible through visualizations. It focuses on:
 
 - Age-wise population segmentation  
 - Population growth analysis between census years  
 - Economic indicators such as median household income and unemployment rates  
 - Generating clean, structured outputs for analytics or reporting workflows
 
-An interactive **Streamlit** application is included, allowing users to upload a `.csv` file and view region-specific insights with an intuitive dropdown interface.
+An interactive **Streamlit** application is included, allowing users to upload a `.csv` file and view region-specific insights with a dropdown interface.
+
+> 📘 **Note**: The entire preprocessing pipeline—including data cleaning, transformation, and output generation—is demonstrated in the `technical_test.ipynb` notebook.
 
 ---
 
@@ -25,13 +27,12 @@ An interactive **Streamlit** application is included, allowing users to upload a
 - ✅ Age distribution and income statistics  
 - ✅ Streamlit dashboard for interactive data exploration  
 - ✅ Pivoted view for clear, user-friendly outputs  
-- ✅ Basic error handling for missing or malformed inputs
 
 ---
 
 ## ⚙️ Technologies Used
 
-- Python 3.x  
+- Python 3.9.6  
 - Pandas  
 - Streamlit  
 - OpenPyXL (optional Excel support)  
@@ -47,3 +48,7 @@ An interactive **Streamlit** application is included, allowing users to upload a
    pip install -r requirements.txt
    # or
    uv pip install -r requirements.txt
+3. Review the `technical_test.ipynb` file for the entire processing steps.
+4. Run the Streamlit application with the following command:
+   ```bash
+   streamlit run app.py
