@@ -48,7 +48,6 @@ An interactive **Streamlit** application is included, allowing users to upload a
    pip install -r requirements.txt
    # or
    uv pip install -r requirements.txt
-3. Review the `technical_test.ipynb` file for the entire processing steps.
-4. Run the Streamlit application with the following command:
+3. Run the Streamlit application with the following command:
    ```bash
    streamlit run app.py

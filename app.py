@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from preprocess import preprocess_data
 
 # App title
 st.title("🇨🇦 Canada Population Data")
@@ -10,6 +11,9 @@ uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
 if uploaded_file is not None:
     # Read CSV
     df = pd.read_csv(uploaded_file)
+
+    # Preprocess data
+    df = preprocess_data(df)
 
     # Expected columns
     expected_columns = [
