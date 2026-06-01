@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/irtizak/statscan_pop)
+
 # 📊 Canada Census Data Processing & Visualization
 
 This project provides a streamlined pipeline to process Canadian census data and generate population metrics summaries for various geographic regions (age distributions, population totals, growth rates, median household income, and unemployment rates). It is designed to support further analysis, reporting, and dashboard development using tools such as **Streamlit**.
